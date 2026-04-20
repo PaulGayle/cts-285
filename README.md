@@ -1,7 +1,7 @@
 FLASKQS
 
-Creating this program was a bit of a challenge
-but due to this project I really have a better understanding of virtual environments 
+Creating this program was a bit of a challenge.
+but due to this project I really have a better understanding of virtual environments.
 
 Step 1: Create a virutual environment.
 For macOS/Linux: python3 -m venv venv
