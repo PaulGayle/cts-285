@@ -19,5 +19,5 @@ Step 4: Freeze / reproduce environment
 pip freeze > requirements.txt
 
 Step 5: Deactivate & Remove
-For macOS/Linux: rm -rf venv
-For Windows: rmdir /s venv
+For macOS/Linux: rm -rf venv.
+For Windows: rmdir /s venv.
